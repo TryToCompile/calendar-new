@@ -1,0 +1,22 @@
+.cal-body {
+  display: grid;
+  grid-template-columns: 30px 30px 30px 30px 30px 30px 30px;
+  grid-template-rows: 30px 30px 30px 30px 30px 30px;
+}
+
+.cal-head {
+  padding-left: 25%;
+}
+
+#main {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+}
+
+section {
+  margin: 10px;
+  border: 1px solid black;
+  width: 195px;
+  padding: 10px;
+  background-color: antiquewhite;
+}

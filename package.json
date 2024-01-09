@@ -1,0 +1,17 @@
+{
+  "name": "lesson5-task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0"
+  }
+}
